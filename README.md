@@ -28,7 +28,6 @@ brain_tumor_dataset/
 └── no/ # Gambar MRI tanpa tumor
 ```
 
-- Total ~3000 gambar
 - Ukuran gambar bervariasi
 - Format: JPG/PNG
 
