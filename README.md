@@ -15,7 +15,6 @@ Tujuan akhir: **mendeteksi keberadaan tumor otak** secara otomatis dari gambar M
 ---
 
 ## 📂 Dataset
-![visualisasi_model_tumor](https://github.com/user-attachments/assets/570f95b8-1dd5-4c74-bf48-12e54a42e97b)
 
 Dataset yang digunakan:
 
@@ -97,8 +96,6 @@ from torchvision import models, transforms, datasets
 
 ### 6️⃣ Training Loop
 
-## 📊 Visualisasi Hasil
-
 ```Accuracy per Epoch
 Epoch 1: Train Acc: 77.23% | Val Acc: 86.27%
 Epoch 2: Train Acc: 97.52% | Val Acc: 92.16%
@@ -106,6 +103,9 @@ Epoch 3: Train Acc: 94.55% | Val Acc: 90.20%
 Epoch 4: Train Acc: 94.06% | Val Acc: 92.16%
 Epoch 5: Train Acc: 98.51% | Val Acc: 94.12% (Best)
 ```
+
+## 📊 Visualisasi Hasil
+![visualisasi_model_tumor](https://github.com/user-attachments/assets/570f95b8-1dd5-4c74-bf48-12e54a42e97b)
 
 ## 📝 Kesimpulan
 ✅ Model transfer learning mampu mencapai akurasi validasi >94% hanya dengan 5 epoch.
