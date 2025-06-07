@@ -15,6 +15,7 @@ Tujuan akhir: **mendeteksi keberadaan tumor otak** secara otomatis dari gambar M
 ---
 
 ## 📂 Dataset
+![visualisasi_model_tumor](https://github.com/user-attachments/assets/570f95b8-1dd5-4c74-bf48-12e54a42e97b)
 
 Dataset yang digunakan:
 
